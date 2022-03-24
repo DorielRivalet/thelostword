@@ -1,4 +1,4 @@
-module github.com/ThamognyaKodi/ThamognyaKodi
+module github.com/thelostword/thelostword
 
 go 1.17
 
