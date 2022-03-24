@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftqo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ftqo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ftqo&theme=github_dark)
